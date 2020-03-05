@@ -1,0 +1,2 @@
+language = "python3"
+run = "for f in src/main*.py ; do echo Running $f... ; python $f ; echo ; done"

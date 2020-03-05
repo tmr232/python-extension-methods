@@ -41,6 +41,8 @@ class Square:
     length: int
 ```
 
+You can follow along with working code samples [here][repl], or get the code [here][github]
+
 ## Monkey Patching 🙈
 
 Python is a very dynamic language. Among other things, it allows us to change the attributes
@@ -323,3 +325,5 @@ I hope you enjoyed this article. Regardless of that, I hope you never use it in 
 [`inspect`]: https://docs.python.org/3/library/inspect.html
 [Fundemental Theorem of Software Engineering (FTSE)]: https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering
 [previous post]: https://dev.to/tmr232/snake-eyes-scopes-and-iife-50h2
+[repl]: https://repl.it/@TamirBahar/python-extension-methods
+[github]: https://github.com/tmr232/python-extension-methods
