@@ -2,6 +2,8 @@
 
 Today we set out to implement a feature I saw and liked in Kotlin - [Extension Methods].
 
+You can follow along with working code samples [here][repl], or get the code [here][github]
+
 Extension methods are a nice piece of syntactic-sugar that allow you to define free-functions
 and call them like instance methods. In Kotlin, it looks something like this:
 
@@ -40,8 +42,6 @@ from dataclasses import dataclass
 class Square:
     length: int
 ```
-
-You can follow along with working code samples [here][repl], or get the code [here][github]
 
 ## Monkey Patching 🙈
 
